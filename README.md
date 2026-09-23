@@ -2,7 +2,7 @@
 基于中国五大枢纽机场（北京首都 PEK、深圳宝安 SZX、广州白云 CAN、上海浦东 PVG、上海虹桥 SHA）1126万条航班运行数据，完成从数据清洗、探索性分析到机器学习预测的全流程
 
 2）数据集
-来源：Zenodo 公开数据集 (Flight Operations Data V1.0)
+来源：Zenodo 公开数据集 (Flight Operations Data V1.0）
 规模：11,723,420 行，13 个字段
 
 3）技术栈
