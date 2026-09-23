@@ -1,5 +1,4 @@
 1）航班延误分析与预测平台 (Flight Delay Analytics)
-
 基于中国五大枢纽机场（北京首都 PEK、深圳宝安 SZX、广州白云 CAN、上海浦东 PVG、上海虹桥 SHA）1126万条航班运行数据，完成从数据清洗、探索性分析到机器学习预测的全流程
 
 2）数据集
@@ -34,11 +33,11 @@ flight-delay-analytics/
 └── README.md
 
 7）如何运行
-1. 克隆仓库：
+1.克隆仓库：
 ```bash
 git clone https://github.com/merlin-mc/flight-delay-analytics.git
 ```
-2. 安装依赖：
+2.安装依赖：
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter joblib
 ```
